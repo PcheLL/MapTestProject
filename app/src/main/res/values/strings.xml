@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestProject</string>
+
+    <string name="button_login">Войти</string>
+    <string name="edit_text_hint_password">Пароль</string>
+    <string name="edit_text_hint_login">Логин</string>
+    <string name="image">картинка</string>
+    <string name="text">текст</string>
+    <string name="text_view_id">ID</string>
+    <string name="text_view_country">Country</string>
+    <string name="text_view_name">Name</string>
+    <string name="text_view_back">Назад</string>
+
+    <!-- Errors -->
+    <string name="error_some_fields_empty">Проверьте заполненность полей!</string>
+    <string name="error_server_access">Ошибка получения данных с сервера!</string>
+    <string name="error_wrong_login_or_password">Неверный логин или пароль!</string>
+</resources>
